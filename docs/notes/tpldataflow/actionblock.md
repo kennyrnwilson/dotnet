@@ -1,0 +1,2 @@
+### ActionBlock<T>
+This simple class is a target block. It provides an abstraction that encapsulates a buffer and tasks that process data from that buffer. The consumer uses a delegate to specify the logic to apply to each data item. 

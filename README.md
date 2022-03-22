@@ -25,4 +25,4 @@ The tutorials use the LINQPad tool. The repository is here
 
 | Tutorial                       | Description                 |
 | ---------------------------------------| ----------------------------|
-|[Task Basics](./) |Task Basics|
+|[Task Basics](https://github.com/kennyrnwilson/linqpad/tree/master/Queries/Tutorials/Threading/Tasks/01%20Basics) |Task Basics|

@@ -40,9 +40,21 @@ The language provides a set of built-in blocks that are intended to cover most s
 The built-in blocks fall into one of three categories. 
  * Pure Buffering Blocks
  * Execution Blocks
+ * Transform Groups    b
  * Grouping Blocks
 
 ### Buffering Blocks
 
  * [BufferBlock\<T>](./bufferblock.md)
+
+ ### Transforming Blocks
+
+  * [TransformBlock\<T>](./transformblock.md)
+
+### Execution Blocks
+  * [ExecutionBlocks\<T>](./transformblock.md)
+
+### Combining Blocks
+
+ * [BatchBlock\<T>](./batchblock.md)
 

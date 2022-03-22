@@ -1,7 +1,7 @@
 # Tasks
 Tasks separate the specification and co-ordination of units of work from the details of how they are scheduled. Unlike threads, it is easy to get a return value from a task. Tasks can be chained together by specifying that one task continues when another completes. Large operations can be formed by combining smaller ones.
 
-> The code fragments for this document are LINQPad fragments and can be found here. 
+> The code fragments for this document are LINQPad fragments and can be found [here](https://github.com/kennyrnwilson/linqpad/tree/master/Queries/Notes/Threading/02%20Tasks). 
 
 ## Starting Tasks 
 **1**
